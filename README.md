@@ -6,8 +6,10 @@ Tools to try:
 
 - [x] Pipenv (`pipenv install --dev`)
 - [x] Pytest (`pipenv run pytest`)
-- [x] Black
-- [x] Ruff
+- [x] Black (vscode extension)
+- [x] Ruff (vscode extension)
+- [ ] PyRight type checker (vscode setting)
+- [ ] MyPy type checker (vscode setting)
 
 Try poetry next.
 
