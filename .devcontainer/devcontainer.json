@@ -9,8 +9,7 @@
             "extensions": [
                 "ms-python.black-formatter",
                 "tamasfe.even-better-toml",
-                "charliermarsh.ruff",
-                "ms-python.mypy-type-checker"
+                "charliermarsh.ruff"
             ]
         }
     }
