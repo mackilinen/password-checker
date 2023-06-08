@@ -1,0 +1,5 @@
+LESS_THEN_7 = "length is less then 7"
+LESS_THEN_10 = "length is less then 10"
+NO_LETTERS = "does not contain a letter"
+NO_NUMBERS = "does not contain a number"
+NO_SPECIAL = "does not contain a special character"
