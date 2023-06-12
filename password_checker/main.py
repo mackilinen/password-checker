@@ -2,7 +2,7 @@ from core.checker import check_strength
 from core.enums import UserType
 
 
-def main():
+def main() -> None:
     print("Enter user type (user or admin)")
     user_type = input()
     print("Enter password to check strength:")

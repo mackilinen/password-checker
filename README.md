@@ -8,8 +8,8 @@ Tools to try:
 - [x] Pytest (`pipenv run pytest`)
 - [x] Black (vscode extension)
 - [x] Ruff (vscode extension)
-- [ ] PyRight type checker (vscode setting)
-- [ ] MyPy type checker (vscode setting)
+- [x] MyPy type checker (vscode setting)
+<!-- - [ ] PyRight type checker (vscode setting) -->
 
 Try poetry next.
 
