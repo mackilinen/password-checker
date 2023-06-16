@@ -4,9 +4,9 @@
 
 Tools to try:
 
-- [x] Pipenv (`pipenv install --dev`)
+- [x] Pipenv (devcontainer feature or `pip install pipenv`, `pipenv install --dev`)
 - [x] Pytest (`pipenv run pytest`)
-- [x] Black (vscode extension)
+- [x] Black (vscode extension, `pipenv run black .`)
 - [x] Ruff (vscode extension, `pipenv run ruff check .`)
 - [x] MyPy type checker (vscode setting, `pipenv run mypy .`)
 

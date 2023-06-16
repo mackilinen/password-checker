@@ -9,6 +9,7 @@ name = "pypi"
 pytest = "*"
 mypy = "*"
 ruff = "*"
+black = "*"
 
 [requires]
 python_version = "3.11"
