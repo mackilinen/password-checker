@@ -1,14 +1,14 @@
 import re
 from typing import Callable, Tuple
 
-from .constants import (
+from password_checker.core.constants import (
     LESS_THEN_7,
     LESS_THEN_10,
     NO_LETTERS,
     NO_NUMBERS,
     NO_SPECIAL,
 )
-from .enums import PasswordStrength, UserType
+from password_checker.core.enums import PasswordStrength, UserType
 
 special_char = re.compile("[@_!#$%^&*()<>?/\\|}{~:]")
 

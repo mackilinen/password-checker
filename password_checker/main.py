@@ -1,5 +1,5 @@
-from .core.checker import check_strength
-from .core.enums import UserType
+from password_checker.core.checker import check_strength
+from password_checker.core.enums import UserType
 
 
 def main() -> None:
